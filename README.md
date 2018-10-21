@@ -1,4 +1,4 @@
-# Machine Learning Algorithms
+# Machine Learning Algorithms | Python
 
 These are my codes for various Machine Learning algorithms which include K-Nearest Neighbors, Logistic Regression, Support Vector Machines and Convolutional Neural Networks. 
 
